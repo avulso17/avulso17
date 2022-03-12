@@ -1,7 +1,7 @@
-## Olá! Eu sou o Felipe Mateus 👋
+## Olá! Eu sou o Felipe Mateus 🪐
 
 - 🔭 Atualmente trabalho com Front-end
-- 🌱 Estudando JavaScript
+- 💻 Estudando JavaScript
 - 👯 Procuro colaborar ao maximo que posso, gosto de ensinar e passar meu conhecimento adiante!
 - 🤔 Procuro ajuda em encontrar um novo job :D
 - 💬 Pergunte-me sobre qualquer coisa!
