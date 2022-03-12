@@ -8,10 +8,10 @@
 - 📫 Contate-me no e-mail: felipe_dev08@hotmail.com
 - ⚡ Fato divertido: Tenho costume de falar sozinho haha...
 
-<div align="center">
+<div>
   <a href="https://github.com/avulso17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avulso17&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avulso17&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=avulso17&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avulso17&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
