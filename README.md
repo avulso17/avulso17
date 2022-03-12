@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Felipe Mateus 👋
 
-- 🔭 Atualmente trabalho com front-end
+- 🔭 Atualmente trabalho com Front-end
 - 🌱 Estudando JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 Procuro colaborar ao maximo que posso, gosto de ensinar e passar meu conhecimento adiante!
+- 🤔 Procuro ajuda em encontrar um novo job :D
+- 💬 Pergunte-me sobre qualquer coisa!
 - 📫 Contate-me no e-mail: felipe_dev08@hotmail.com
-- ⚡ Fato divertido: Eu costumo falar sozinho haha...
+- ⚡ Fato divertido: Tenho costume de falar sozinho haha...
 
 <div align="center">
   <a href="https://github.com/avulso17">
