@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Felipe Mateus 🪐
 
 - 🔭 Atualmente trabalho com Front-end
-- 💻 Estudando JavaScript
+- 💻 Estudando JavaScript e NEXT.js
 - 👯 Procuro colaborar ao maximo que posso, gosto de ensinar e passar meu conhecimento adiante!
-- 🤔 Procuro ajuda em encontrar um novo job :D
+- 🔼 Atualmente faco parte da equipe SolaLand🔼
 - 💬 Pergunte-me sobre qualquer coisa!
 - 📫 Contate-me no e-mail: felipe_dev08@hotmail.com
 - ⚡ Fato divertido: Tenho costume de falar sozinho haha...
