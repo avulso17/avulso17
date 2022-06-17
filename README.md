@@ -15,12 +15,11 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Felipe-NEXT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Felipe-SC" height="30" width="40" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
+  <img align="center" alt="Felipe-SC" height="30" width="30" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
   <img align="center" alt="Felipe-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" src="https://images.wallpapersden.com/image/download/4k-rick-and-morty-2020_bGhma26UmZqaraWkpJRobWllrWdma2U.jpg">
 </div>
