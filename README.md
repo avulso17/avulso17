@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe Mateus 🪐
 
 - 🔭 Atualmente trabalho com Front-end
-- 💻 Estudando JavaScript e NEXT.js
+- 💻 Estudando TypeScript e NEXT.js
 - 👯 Procuro colaborar ao maximo que posso, gosto de ensinar e passar meu conhecimento adiante!
 - 🔼 Atualmente fazendo parte da equipe SolaLand🔼
 - 💬 Pergunte-me sobre qualquer coisa!
