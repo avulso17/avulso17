@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com Front-end
 - 💻 Estudando TypeScript e NEXT.js
 - 👯 Procuro colaborar ao maximo que posso, gosto de ensinar e passar meu conhecimento adiante!
-- 🔼 Atualmente fazendo parte da equipe SolaLand🔼
+- 🔎 Atualmente estou a procura de novas oportunidades!
 - 💬 Pergunte-me sobre qualquer coisa!
 - 📫 Contate-me no e-mail: felipe_dev08@hotmail.com
 - ⚡ Fato divertido: Tenho costume de falar sozinho haha...
