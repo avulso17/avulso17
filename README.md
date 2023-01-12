@@ -1,12 +1,12 @@
-## Olá! Eu sou o Felipe Mateus 🪐
+## Hello! I am Felipe Mateus 🪐
 
-- 🔭 Atualmente trabalho com Front-end
-- 💻 Estudando TypeScript e NEXT.js
-- 👯 Procuro colaborar ao maximo que posso, gosto de ensinar e passar meu conhecimento adiante!
-- 🔎 Atualmente estou a procura de novas oportunidades!
-- 💬 Pergunte-me sobre qualquer coisa!
-- 📫 Contate-me no e-mail: felipe_dev08@hotmail.com
-- ⚡ Fato divertido: Tenho costume de falar sozinho haha...
+- 🔭 Currently I work with Front-end
+- 💻 Estuding TypeScript, NEXT.js, Turborepo and Node.js...
+- 👯 I try to collaborate as much as I can, I like to teach and pass on my knowledge!
+- 🔎 I'm currently studying new technologies!
+- 💬 Ask me about anything!
+- 📫 Contact me on email: felipe_dev08@hotmail.com
+- ⚡ Fun fact: I tend to talk to myself haha...
 
 <div>
   <a href="https://github.com/avulso17">
