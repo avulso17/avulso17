@@ -24,6 +24,7 @@
   <img align="center" alt="Felipe-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Felipe-SC" height="30" width="30" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
   <img align="center" alt="Felipe-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Felipe-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" src="https://images.wallpapersden.com/image/download/4k-rick-and-morty-2020_bGhma26UmZqaraWkpJRobWllrWdma2U.jpg">
   <img align="center" alt="Felipe-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Felipe-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
