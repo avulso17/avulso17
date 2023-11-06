@@ -1,7 +1,6 @@
 ## Hello! I am Felipe Mateus 🪐
 
 - 🔭 Currently I work with Front-end
-- 💻 Estuding Microfrontend...
 - 👯 I try to collaborate as much as I can, I like to teach and pass on my knowledge!
 - 🔎 I'm currently studying new technologies!
 - 💬 Ask me about anything!
