@@ -4,7 +4,7 @@
 - 👯 I try to collaborate as much as I can, I like to teach and pass on my knowledge!
 - 🔎 I'm currently studying algorithms!
 - 💬 Ask me about anything!
-- 📫 Contact me on email: felipe.dev08@gmail.com
+- 📫 Contact me on email: felipe_dev08@hotmail.com
 - ⚡ Fun fact: I tend to talk to myself haha...
 
 <div>
