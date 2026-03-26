@@ -2,7 +2,7 @@
 
 - 🔭 Currently I work with Front-end
 - 👯 I try to collaborate as much as I can, I like to teach and pass on my knowledge!
-- 🔎 I'm currently studying Rust🦀
+- 🔎 I'm currently studying AI 🤖
 - 💬 Ask me about anything!
 - 📫 Contact me on email: felipe_dev08@hotmail.com
 - ⚡ Fun fact: I tend to talk to myself haha...
