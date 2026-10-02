@@ -5,8 +5,6 @@
 📚 I enjoy teaching and sharing knowledge  
 💭 Fun fact: I talk to myself sometimes 😅  
 
----
-
 ## 🧠 Tech Stack
 
 <div align="center">
